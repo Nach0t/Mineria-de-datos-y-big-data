@@ -1,0 +1,7 @@
+ID,Producto,Categoria,Precio,Cantidad,Sucursal,Ingreso,Nivel_Venta
+1,Laptop,Tecnología,800,5,Norte,4000,Alto
+2,Mouse,Tecnología,20,50,Sur,1000,Medio
+3,Teclado,Tecnología,50,30,Centro,1500,Medio
+4,Monitor,Tecnología,300,10,Norte,3000,Medio
+5,Silla,Hogar,120,15,Sur,1800,Medio
+6,Escritorio,Hogar,250,8,Centro,2000,Medio

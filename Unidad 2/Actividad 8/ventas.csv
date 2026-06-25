@@ -1,0 +1,1001 @@
+ID,Edad,Ciudad,Producto,Precio,Cantidad,FechaCompra,MétodoPago
+1,56,Santiago,Laptop,951,3,2023-10-21,Efectivo
+2,46,Puerto Montt,Smartphone,1098,4,2023-12-17,Transferencia
+3,32,Santiago,Smartphone,1726,1,2024-06-09,Efectivo
+4,60,Puerto Montt,Accesorio,1190,4,2023-03-28,Efectivo
+5,25,Concepción,Tablet,531,3,2023-03-04,Tarjeta
+6,38,Santiago,Smartphone,1465,4,2024-11-11,Efectivo
+7,56,Valparaíso,Smartphone,966,5,2024-06-01,Tarjeta
+8,36,Valparaíso,Smartphone,1043,5,2022-11-09,Tarjeta
+9,40,Puerto Montt,Accesorio,1013,4,2024-04-19,Efectivo
+10,28,Valparaíso,Tablet,586,1,2023-06-03,Tarjeta
+11,28,Santiago,Laptop,1152,1,2023-01-10,Transferencia
+12,41,Valparaíso,Accesorio,1653,1,2023-03-27,Transferencia
+13,53,Concepción,Accesorio,1246,4,2024-10-11,Efectivo
+14,57,Concepción,Tablet,1085,1,2023-08-18,Transferencia
+15,41,Puerto Montt,Tablet,1873,3,2023-05-15,Tarjeta
+16,20,Santiago,Accesorio,177,5,2023-04-09,Transferencia
+17,39,Concepción,Laptop,1681,3,2022-04-23,Efectivo
+18,19,Concepción,Accesorio,141,1,2024-11-01,Efectivo
+19,41,Santiago,Tablet,1726,3,2022-11-27,Tarjeta
+20,61,Valparaíso,Laptop,592,1,2022-05-20,Efectivo
+21,47,Valparaíso,Tablet,895,4,2024-06-20,Transferencia
+22,55,Puerto Montt,Laptop,1605,3,2023-06-01,Efectivo
+23,19,Valparaíso,Smartphone,1731,4,2023-07-23,Tarjeta
+24,38,Santiago,Tablet,1038,4,2024-04-25,Efectivo
+25,50,Concepción,Tablet,1901,2,2024-12-28,Transferencia
+26,29,Valparaíso,Accesorio,496,1,2022-04-28,Tarjeta
+27,39,Puerto Montt,Tablet,439,5,2024-06-06,Transferencia
+28,61,Valparaíso,Tablet,721,1,2024-12-18,Tarjeta
+29,42,Santiago,Smartphone,1934,5,2024-11-22,Efectivo
+30,44,Puerto Montt,Tablet,92,1,2022-02-19,Tarjeta
+31,59,Valparaíso,Smartphone,303,4,2022-01-19,Tarjeta
+32,45,Puerto Montt,Smartphone,1203,3,2023-12-27,Efectivo
+33,33,Santiago,Smartphone,1133,3,2022-07-16,Transferencia
+34,32,Concepción,Smartphone,712,2,2023-07-13,Efectivo
+35,64,Santiago,Laptop,516,5,2023-03-28,Tarjeta
+36,61,Santiago,Accesorio,336,5,2022-10-16,Efectivo
+37,20,Santiago,Laptop,1060,5,2023-01-26,Tarjeta
+38,54,Santiago,Tablet,1590,4,2022-08-03,Efectivo
+39,24,Concepción,Laptop,1540,5,2022-08-03,Efectivo
+40,38,Concepción,Laptop,827,3,2022-05-08,Transferencia
+41,26,Puerto Montt,Tablet,394,4,2024-01-30,Tarjeta
+42,56,Valparaíso,Tablet,691,1,2023-02-08,Transferencia
+43,35,Concepción,Tablet,431,5,2024-11-18,Tarjeta
+44,21,Concepción,Laptop,1852,5,2022-12-04,Efectivo
+45,42,Valparaíso,Laptop,739,1,2024-04-10,Tarjeta
+46,31,Concepción,Tablet,1326,5,2023-12-15,Transferencia
+47,26,Santiago,Accesorio,2000,1,2022-12-27,Transferencia
+48,43,Santiago,Accesorio,1129,4,2023-07-23,Transferencia
+49,19,Valparaíso,Smartphone,1536,3,2022-08-06,Tarjeta
+50,37,Puerto Montt,Tablet,506,1,2022-07-21,Transferencia
+51,45,Puerto Montt,Smartphone,1032,2,2022-01-17,Transferencia
+52,64,Valparaíso,Accesorio,132,1,2022-11-18,Transferencia
+53,24,Valparaíso,Smartphone,1978,5,2023-06-02,Efectivo
+54,61,Santiago,Tablet,1172,4,2023-11-12,Efectivo
+55,25,Puerto Montt,Tablet,198,4,2023-03-01,Tarjeta
+56,64,Concepción,Tablet,1402,1,2024-10-15,Tarjeta
+57,52,Santiago,Laptop,1229,3,2023-01-22,Transferencia
+58,31,Valparaíso,Smartphone,239,2,2024-02-17,Efectivo
+59,34,Puerto Montt,Accesorio,1567,4,2022-04-08,Transferencia
+60,53,Concepción,Accesorio,932,5,2022-07-27,Transferencia
+61,57,Concepción,Accesorio,312,5,2023-08-09,Efectivo
+62,21,Santiago,Laptop,1153,3,2022-06-15,Efectivo
+63,19,Puerto Montt,Laptop,449,4,2022-01-22,Efectivo
+64,23,Puerto Montt,Tablet,813,1,2022-06-03,Tarjeta
+65,59,Valparaíso,Accesorio,658,5,2022-08-07,Tarjeta
+66,21,Puerto Montt,Laptop,1333,3,2023-10-31,Transferencia
+67,46,Puerto Montt,Tablet,1845,4,2022-08-18,Tarjeta
+68,35,Santiago,Accesorio,1688,4,2022-01-20,Efectivo
+69,43,Puerto Montt,Smartphone,1625,4,2023-07-07,Efectivo
+70,61,Concepción,Tablet,834,4,2024-08-07,Tarjeta
+71,51,Santiago,Laptop,150,4,2022-05-28,Transferencia
+72,27,Santiago,Laptop,1432,5,2023-02-07,Transferencia
+73,53,Valparaíso,Tablet,1453,3,2023-08-19,Tarjeta
+74,31,Puerto Montt,Tablet,869,4,2023-01-02,Transferencia
+75,48,Valparaíso,Laptop,1294,2,2024-03-12,Transferencia
+76,65,Concepción,Smartphone,869,2,2024-07-06,Transferencia
+77,32,Santiago,Accesorio,469,3,2022-03-14,Efectivo
+78,25,Santiago,Smartphone,173,1,2023-04-26,Efectivo
+79,31,Santiago,Tablet,471,1,2023-07-14,Tarjeta
+80,40,Concepción,Smartphone,1304,1,2024-01-15,Efectivo
+81,57,Concepción,Laptop,1763,2,2022-04-10,Transferencia
+82,38,Valparaíso,Tablet,1136,1,2024-12-18,Efectivo
+83,33,Valparaíso,Accesorio,1558,5,2023-05-23,Tarjeta
+84,62,Valparaíso,Laptop,1701,4,2022-09-15,Efectivo
+85,35,Puerto Montt,Laptop,1776,2,2023-02-17,Transferencia
+86,64,Santiago,Accesorio,1647,3,2024-12-24,Transferencia
+87,41,Santiago,Accesorio,817,3,2023-08-18,Tarjeta
+88,43,Valparaíso,Smartphone,532,4,2022-09-23,Efectivo
+89,42,Santiago,Tablet,568,2,2024-03-31,Efectivo
+90,62,Valparaíso,Accesorio,204,1,2023-10-24,Efectivo
+91,58,Puerto Montt,Accesorio,141,1,2024-08-04,Transferencia
+92,46,Puerto Montt,Tablet,1031,5,2023-07-14,Tarjeta
+93,32,Concepción,Accesorio,1599,5,2024-07-05,Efectivo
+94,62,Puerto Montt,Accesorio,504,1,2024-06-09,Transferencia
+95,18,Valparaíso,Smartphone,1814,3,2024-05-17,Transferencia
+96,42,Puerto Montt,Laptop,647,3,2023-09-02,Transferencia
+97,24,Concepción,Laptop,1718,5,2023-02-18,Efectivo
+98,26,Santiago,Laptop,559,4,2022-01-25,Efectivo
+99,41,Valparaíso,Laptop,1256,1,2022-10-11,Efectivo
+100,18,Santiago,Accesorio,435,5,2024-05-30,Efectivo
+101,61,Concepción,Tablet,1647,5,2022-10-28,Efectivo
+102,25,Concepción,Tablet,1804,1,2024-12-27,Efectivo
+103,41,Concepción,Smartphone,454,1,2024-10-27,Efectivo
+104,28,Santiago,Smartphone,295,3,2024-03-27,Efectivo
+105,34,Santiago,Accesorio,791,4,2022-03-24,Efectivo
+106,25,Santiago,Tablet,1664,4,2022-02-15,Transferencia
+107,52,Santiago,Tablet,710,1,2023-09-10,Efectivo
+108,52,Concepción,Laptop,699,2,2024-07-16,Tarjeta
+109,50,Concepción,Accesorio,1544,5,2022-09-19,Transferencia
+110,22,Valparaíso,Accesorio,1899,5,2022-06-25,Efectivo
+111,59,Valparaíso,Laptop,1961,1,2023-10-19,Tarjeta
+112,56,Santiago,Accesorio,1496,2,2024-04-21,Efectivo
+113,58,Puerto Montt,Accesorio,950,3,2023-01-05,Tarjeta
+114,45,Puerto Montt,Smartphone,114,1,2022-02-23,Tarjeta
+115,24,Concepción,Tablet,1086,1,2023-11-21,Tarjeta
+116,26,Concepción,Accesorio,262,5,2023-01-02,Tarjeta
+117,25,Concepción,Smartphone,291,1,2023-10-06,Transferencia
+118,29,Valparaíso,Tablet,542,1,2023-01-14,Transferencia
+119,51,Valparaíso,Laptop,1286,1,2022-03-14,Tarjeta
+120,50,Concepción,Smartphone,1766,5,2024-07-03,Efectivo
+121,65,Concepción,Smartphone,387,3,2024-05-09,Tarjeta
+122,40,Concepción,Tablet,222,3,2022-02-12,Transferencia
+123,41,Puerto Montt,Laptop,721,1,2023-01-12,Efectivo
+124,54,Valparaíso,Smartphone,213,5,2024-11-30,Transferencia
+125,52,Puerto Montt,Accesorio,514,3,2022-06-19,Transferencia
+126,61,Puerto Montt,Accesorio,1044,3,2022-07-31,Efectivo
+127,57,Concepción,Accesorio,546,3,2022-02-08,Tarjeta
+128,39,Concepción,Laptop,749,5,2023-01-04,Tarjeta
+129,44,Santiago,Smartphone,444,5,2024-01-27,Tarjeta
+130,52,Santiago,Accesorio,752,1,2022-05-31,Tarjeta
+131,18,Puerto Montt,Laptop,1990,4,2024-12-06,Efectivo
+132,52,Valparaíso,Accesorio,357,3,2024-10-20,Efectivo
+133,54,Concepción,Tablet,1841,4,2024-01-07,Efectivo
+134,64,Concepción,Smartphone,232,5,2022-03-10,Transferencia
+135,31,Puerto Montt,Smartphone,678,5,2022-10-26,Efectivo
+136,20,Santiago,Laptop,1867,5,2024-08-01,Tarjeta
+137,18,Valparaíso,Laptop,559,4,2024-03-12,Transferencia
+138,22,Santiago,Smartphone,1781,5,2022-10-23,Tarjeta
+139,43,Santiago,Accesorio,595,1,2022-07-22,Tarjeta
+140,31,Santiago,Accesorio,1637,5,2022-03-02,Efectivo
+141,56,Santiago,Tablet,673,2,2024-08-03,Efectivo
+142,44,Concepción,Accesorio,1837,4,2024-08-20,Tarjeta
+143,26,Concepción,Laptop,643,2,2022-11-27,Tarjeta
+144,32,Santiago,Laptop,793,5,2022-12-04,Transferencia
+145,32,Valparaíso,Accesorio,1300,1,2023-10-01,Efectivo
+146,43,Puerto Montt,Laptop,1818,3,2022-10-02,Transferencia
+147,59,Valparaíso,Smartphone,1806,5,2022-11-15,Transferencia
+148,30,Valparaíso,Smartphone,1509,1,2023-08-12,Transferencia
+149,49,Valparaíso,Accesorio,1998,4,2023-05-19,Tarjeta
+150,56,Santiago,Smartphone,1495,2,2023-01-22,Transferencia
+151,49,Concepción,Smartphone,603,2,2024-05-19,Transferencia
+152,21,Valparaíso,Tablet,70,2,2024-04-12,Tarjeta
+153,47,Santiago,Tablet,603,4,2024-10-11,Efectivo
+154,54,Valparaíso,Smartphone,446,1,2023-08-26,Efectivo
+155,40,Valparaíso,Accesorio,674,4,2023-11-22,Transferencia
+156,56,Santiago,Tablet,154,2,2023-05-09,Tarjeta
+157,62,Concepción,Laptop,241,5,2023-05-05,Efectivo
+158,32,Concepción,Laptop,66,3,2023-12-22,Transferencia
+159,60,Puerto Montt,Laptop,1193,4,2023-05-24,Transferencia
+160,46,Santiago,Accesorio,442,4,2023-01-25,Tarjeta
+161,53,Puerto Montt,Smartphone,474,1,2022-10-22,Transferencia
+162,30,Puerto Montt,Laptop,178,1,2024-03-06,Efectivo
+163,49,Puerto Montt,Accesorio,1203,4,2024-05-14,Tarjeta
+164,24,Concepción,Tablet,621,2,2023-07-03,Efectivo
+165,39,Santiago,Smartphone,1633,3,2023-10-11,Efectivo
+166,45,Puerto Montt,Tablet,78,1,2023-07-22,Efectivo
+167,19,Santiago,Accesorio,1170,2,2024-05-02,Transferencia
+168,59,Santiago,Laptop,1083,5,2024-02-09,Transferencia
+169,62,Concepción,Laptop,291,1,2023-03-21,Efectivo
+170,23,Puerto Montt,Accesorio,1899,2,2022-12-29,Efectivo
+171,45,Puerto Montt,Laptop,281,2,2022-05-03,Tarjeta
+172,45,Santiago,Smartphone,838,3,2024-01-12,Tarjeta
+173,61,Valparaíso,Accesorio,1357,3,2023-11-11,Transferencia
+174,61,Concepción,Tablet,764,5,2023-02-24,Transferencia
+175,37,Concepción,Accesorio,808,2,2022-04-02,Tarjeta
+176,47,Concepción,Smartphone,851,2,2022-03-04,Efectivo
+177,28,Concepción,Smartphone,825,3,2023-05-27,Transferencia
+178,45,Puerto Montt,Accesorio,775,1,2024-02-11,Efectivo
+179,42,Puerto Montt,Accesorio,249,1,2022-09-13,Tarjeta
+180,56,Valparaíso,Laptop,994,4,2022-05-15,Transferencia
+181,50,Concepción,Smartphone,128,3,2024-05-24,Transferencia
+182,18,Concepción,Accesorio,1986,4,2024-04-01,Tarjeta
+183,44,Santiago,Accesorio,1005,3,2022-03-29,Transferencia
+184,30,Puerto Montt,Smartphone,1928,5,2024-09-14,Tarjeta
+185,58,Concepción,Accesorio,905,2,2024-04-02,Transferencia
+186,20,Valparaíso,Laptop,1246,5,2024-10-23,Tarjeta
+187,56,Valparaíso,Smartphone,516,3,2024-08-31,Transferencia
+188,23,Puerto Montt,Laptop,630,2,2024-07-22,Efectivo
+189,25,Valparaíso,Laptop,1489,1,2022-05-01,Efectivo
+190,44,Valparaíso,Laptop,989,1,2024-11-27,Efectivo
+191,26,Puerto Montt,Laptop,498,4,2024-10-04,Transferencia
+192,54,Concepción,Smartphone,136,3,2024-07-13,Transferencia
+193,50,Concepción,Laptop,150,3,2023-10-07,Efectivo
+194,59,Valparaíso,Laptop,1081,1,2023-12-15,Efectivo
+195,61,Valparaíso,Accesorio,894,5,2024-05-09,Tarjeta
+196,41,Concepción,Smartphone,1273,2,2022-01-21,Tarjeta
+197,32,Puerto Montt,Smartphone,1578,5,2022-08-30,Tarjeta
+198,49,Valparaíso,Tablet,136,5,2023-03-31,Efectivo
+199,49,Santiago,Smartphone,92,1,2024-08-20,Efectivo
+200,41,Puerto Montt,Smartphone,1458,1,2023-09-13,Efectivo
+201,58,Valparaíso,Tablet,1694,1,2022-10-30,Tarjeta
+202,29,Valparaíso,Smartphone,1508,4,2024-03-13,Transferencia
+203,56,Santiago,Smartphone,457,5,2024-08-21,Efectivo
+204,19,Santiago,Smartphone,1556,3,2022-03-10,Transferencia
+205,20,Concepción,Smartphone,713,2,2022-07-15,Transferencia
+206,54,Puerto Montt,Tablet,1090,4,2022-05-20,Transferencia
+207,34,Puerto Montt,Smartphone,1718,3,2022-10-10,Tarjeta
+208,19,Concepción,Smartphone,197,5,2022-11-08,Transferencia
+209,19,Puerto Montt,Tablet,326,1,2024-01-16,Efectivo
+210,45,Puerto Montt,Accesorio,281,5,2022-10-04,Tarjeta
+211,40,Puerto Montt,Laptop,1899,2,2022-03-02,Efectivo
+212,54,Puerto Montt,Accesorio,2000,4,2022-02-21,Efectivo
+213,49,Puerto Montt,Tablet,415,4,2022-06-02,Tarjeta
+214,50,Santiago,Laptop,1301,2,2023-06-28,Efectivo
+215,18,Puerto Montt,Tablet,1724,3,2023-07-21,Efectivo
+216,36,Santiago,Tablet,485,3,2023-09-14,Tarjeta
+217,19,Puerto Montt,Smartphone,448,4,2022-11-10,Efectivo
+218,61,Concepción,Laptop,1284,4,2024-03-17,Transferencia
+219,43,Valparaíso,Smartphone,1464,1,2024-04-27,Efectivo
+220,49,Santiago,Laptop,548,3,2022-04-07,Transferencia
+221,23,Puerto Montt,Tablet,589,2,2024-05-30,Efectivo
+222,49,Concepción,Tablet,612,3,2024-04-08,Tarjeta
+223,21,Valparaíso,Accesorio,1564,1,2022-05-17,Tarjeta
+224,28,Santiago,Laptop,491,4,2024-10-26,Efectivo
+225,34,Valparaíso,Smartphone,1334,4,2024-10-07,Tarjeta
+226,55,Concepción,Accesorio,822,1,2022-04-19,Efectivo
+227,41,Santiago,Accesorio,399,2,2023-07-01,Tarjeta
+228,22,Valparaíso,Accesorio,1425,4,2024-11-28,Transferencia
+229,51,Puerto Montt,Smartphone,569,5,2023-10-24,Efectivo
+230,23,Santiago,Accesorio,1393,4,2023-03-01,Transferencia
+231,39,Valparaíso,Smartphone,187,5,2023-09-22,Transferencia
+232,28,Concepción,Accesorio,1623,1,2022-09-18,Efectivo
+233,65,Concepción,Smartphone,1696,1,2022-03-28,Transferencia
+234,33,Santiago,Tablet,1041,4,2023-04-10,Efectivo
+235,50,Valparaíso,Tablet,417,3,2022-03-17,Transferencia
+236,26,Santiago,Tablet,1293,5,2023-04-16,Efectivo
+237,23,Santiago,Tablet,1410,2,2023-02-18,Efectivo
+238,33,Valparaíso,Tablet,1296,4,2024-04-04,Tarjeta
+239,46,Valparaíso,Accesorio,1721,2,2024-06-13,Efectivo
+240,20,Puerto Montt,Accesorio,1841,4,2023-12-27,Efectivo
+241,37,Valparaíso,Accesorio,409,3,2023-04-02,Transferencia
+242,53,Concepción,Smartphone,970,3,2023-10-15,Efectivo
+243,36,Santiago,Smartphone,378,3,2023-11-03,Tarjeta
+244,43,Santiago,Smartphone,1011,3,2023-05-10,Transferencia
+245,20,Concepción,Smartphone,512,1,2024-12-04,Transferencia
+246,36,Valparaíso,Tablet,995,1,2023-08-20,Tarjeta
+247,37,Concepción,Tablet,1012,5,2023-03-26,Transferencia
+248,49,Concepción,Tablet,1634,2,2023-04-30,Transferencia
+249,24,Puerto Montt,Laptop,1877,4,2023-10-08,Transferencia
+250,58,Concepción,Accesorio,1455,4,2023-09-12,Transferencia
+251,50,Santiago,Smartphone,885,1,2024-11-07,Tarjeta
+252,57,Concepción,Smartphone,1663,4,2023-10-24,Tarjeta
+253,56,Santiago,Tablet,1690,1,2024-01-28,Transferencia
+254,35,Santiago,Smartphone,218,5,2022-10-16,Transferencia
+255,57,Santiago,Smartphone,266,2,2023-12-22,Tarjeta
+256,18,Valparaíso,Accesorio,427,5,2023-09-30,Tarjeta
+257,28,Puerto Montt,Tablet,168,3,2022-08-23,Tarjeta
+258,45,Santiago,Accesorio,239,3,2023-02-20,Transferencia
+259,42,Santiago,Laptop,816,3,2024-07-26,Transferencia
+260,40,Valparaíso,Laptop,419,5,2023-05-14,Efectivo
+261,48,Santiago,Laptop,1851,4,2024-08-31,Tarjeta
+262,47,Concepción,Tablet,198,2,2023-09-26,Transferencia
+263,59,Concepción,Smartphone,1749,3,2024-10-16,Tarjeta
+264,52,Puerto Montt,Tablet,701,3,2022-04-25,Transferencia
+265,24,Santiago,Tablet,1932,3,2024-07-20,Tarjeta
+266,33,Valparaíso,Smartphone,1561,2,2023-11-05,Transferencia
+267,43,Concepción,Accesorio,819,3,2024-10-31,Efectivo
+268,65,Valparaíso,Laptop,423,2,2022-07-25,Efectivo
+269,19,Valparaíso,Accesorio,830,3,2022-09-04,Tarjeta
+270,18,Concepción,Laptop,1766,5,2024-01-28,Transferencia
+271,65,Valparaíso,Tablet,209,5,2022-05-27,Transferencia
+272,29,Concepción,Laptop,400,2,2022-04-28,Tarjeta
+273,22,Valparaíso,Tablet,1985,5,2023-02-16,Transferencia
+274,54,Concepción,Accesorio,1361,2,2022-12-29,Tarjeta
+275,49,Santiago,Tablet,1361,5,2022-05-17,Transferencia
+276,26,Puerto Montt,Accesorio,941,5,2024-08-15,Tarjeta
+277,58,Concepción,Smartphone,1299,2,2022-01-19,Transferencia
+278,52,Concepción,Smartphone,572,4,2022-07-14,Tarjeta
+279,36,Puerto Montt,Smartphone,571,5,2022-11-26,Transferencia
+280,65,Concepción,Tablet,832,3,2022-06-24,Efectivo
+281,33,Concepción,Smartphone,322,4,2024-09-28,Transferencia
+282,20,Valparaíso,Laptop,985,2,2023-03-25,Tarjeta
+283,37,Puerto Montt,Accesorio,1475,4,2024-08-03,Efectivo
+284,41,Santiago,Accesorio,232,1,2022-05-21,Transferencia
+285,50,Concepción,Laptop,1738,1,2024-01-28,Efectivo
+286,41,Puerto Montt,Tablet,537,5,2024-07-18,Transferencia
+287,28,Valparaíso,Tablet,1900,5,2022-04-03,Efectivo
+288,25,Santiago,Accesorio,895,3,2022-08-27,Tarjeta
+289,53,Puerto Montt,Smartphone,173,4,2022-07-24,Transferencia
+290,55,Santiago,Tablet,1034,1,2023-07-14,Transferencia
+291,57,Santiago,Tablet,1699,5,2022-09-02,Tarjeta
+292,37,Santiago,Laptop,839,4,2024-04-11,Efectivo
+293,52,Concepción,Laptop,463,5,2024-07-13,Tarjeta
+294,65,Concepción,Smartphone,1798,5,2022-10-22,Tarjeta
+295,42,Valparaíso,Tablet,1245,1,2023-10-02,Efectivo
+296,52,Valparaíso,Tablet,1361,1,2024-05-05,Tarjeta
+297,42,Puerto Montt,Laptop,1508,5,2022-01-17,Transferencia
+298,46,Valparaíso,Tablet,735,2,2022-03-12,Transferencia
+299,35,Santiago,Accesorio,162,5,2022-11-01,Transferencia
+300,63,Santiago,Laptop,937,5,2024-10-27,Tarjeta
+301,35,Concepción,Smartphone,1990,3,2024-03-27,Transferencia
+302,19,Santiago,Laptop,171,3,2024-03-31,Transferencia
+303,52,Puerto Montt,Tablet,1617,3,2022-07-12,Transferencia
+304,33,Santiago,Smartphone,1295,2,2023-06-13,Transferencia
+305,58,Santiago,Laptop,1704,2,2022-06-20,Transferencia
+306,53,Puerto Montt,Accesorio,88,5,2022-09-08,Transferencia
+307,50,Valparaíso,Accesorio,546,3,2023-06-25,Tarjeta
+308,21,Valparaíso,Laptop,829,2,2023-02-20,Transferencia
+309,50,Puerto Montt,Accesorio,1306,1,2024-03-04,Transferencia
+310,31,Concepción,Accesorio,992,5,2022-01-25,Efectivo
+311,38,Santiago,Accesorio,1603,4,2023-10-30,Tarjeta
+312,65,Puerto Montt,Smartphone,198,5,2023-09-24,Tarjeta
+313,37,Santiago,Accesorio,1470,4,2023-05-20,Tarjeta
+314,25,Concepción,Accesorio,1071,3,2022-12-02,Tarjeta
+315,24,Santiago,Accesorio,710,4,2023-03-01,Transferencia
+316,20,Puerto Montt,Smartphone,1711,3,2023-05-14,Transferencia
+317,34,Santiago,Laptop,1977,1,2024-08-04,Efectivo
+318,50,Valparaíso,Tablet,351,4,2023-09-22,Efectivo
+319,65,Concepción,Accesorio,1433,5,2023-12-19,Tarjeta
+320,29,Concepción,Laptop,287,3,2022-12-05,Efectivo
+321,39,Concepción,Accesorio,696,5,2023-10-21,Efectivo
+322,39,Puerto Montt,Smartphone,712,2,2024-08-19,Tarjeta
+323,63,Concepción,Laptop,285,3,2023-03-05,Tarjeta
+324,47,Valparaíso,Smartphone,1809,4,2024-06-17,Efectivo
+325,55,Puerto Montt,Accesorio,252,3,2022-05-19,Transferencia
+326,55,Valparaíso,Accesorio,305,5,2024-07-30,Efectivo
+327,62,Santiago,Smartphone,647,1,2023-06-26,Efectivo
+328,25,Santiago,Tablet,711,3,2022-02-26,Transferencia
+329,44,Santiago,Smartphone,284,4,2023-10-20,Transferencia
+330,44,Santiago,Accesorio,1418,2,2023-03-11,Tarjeta
+331,51,Valparaíso,Smartphone,583,1,2023-01-19,Tarjeta
+332,38,Puerto Montt,Tablet,909,2,2023-07-14,Efectivo
+333,47,Puerto Montt,Smartphone,1870,3,2022-07-13,Transferencia
+334,50,Concepción,Tablet,1854,5,2023-06-18,Tarjeta
+335,45,Valparaíso,Tablet,1539,5,2023-06-02,Efectivo
+336,64,Santiago,Smartphone,819,4,2023-12-17,Transferencia
+337,50,Valparaíso,Smartphone,590,5,2024-01-21,Efectivo
+338,22,Concepción,Laptop,262,1,2022-07-04,Tarjeta
+339,65,Concepción,Accesorio,512,5,2022-10-19,Tarjeta
+340,36,Valparaíso,Tablet,485,4,2024-01-02,Transferencia
+341,21,Valparaíso,Laptop,332,3,2022-04-26,Efectivo
+342,52,Valparaíso,Smartphone,1635,3,2024-04-04,Transferencia
+343,34,Puerto Montt,Accesorio,1680,5,2024-12-08,Tarjeta
+344,61,Santiago,Laptop,1536,2,2023-11-16,Tarjeta
+345,45,Valparaíso,Tablet,1480,3,2022-03-23,Efectivo
+346,47,Valparaíso,Laptop,137,5,2024-04-13,Efectivo
+347,46,Valparaíso,Tablet,1117,4,2022-11-29,Efectivo
+348,63,Concepción,Smartphone,510,5,2023-07-11,Transferencia
+349,23,Concepción,Accesorio,327,3,2022-12-01,Efectivo
+350,52,Puerto Montt,Accesorio,1756,4,2023-06-16,Efectivo
+351,58,Santiago,Accesorio,470,5,2022-08-09,Tarjeta
+352,54,Puerto Montt,Smartphone,1774,1,2023-09-27,Tarjeta
+353,41,Santiago,Tablet,1426,4,2022-11-19,Efectivo
+354,46,Concepción,Smartphone,745,1,2022-01-03,Efectivo
+355,63,Concepción,Accesorio,564,2,2022-07-25,Tarjeta
+356,48,Concepción,Smartphone,752,4,2022-02-09,Efectivo
+357,52,Puerto Montt,Smartphone,1703,1,2022-02-28,Transferencia
+358,50,Valparaíso,Smartphone,68,3,2024-08-08,Transferencia
+359,38,Valparaíso,Tablet,72,3,2023-07-28,Transferencia
+360,49,Concepción,Laptop,462,2,2023-10-06,Efectivo
+361,40,Valparaíso,Laptop,1103,4,2024-04-22,Tarjeta
+362,50,Valparaíso,Smartphone,1880,4,2023-09-11,Efectivo
+363,20,Puerto Montt,Laptop,157,4,2022-04-06,Efectivo
+364,35,Santiago,Laptop,1440,2,2024-06-16,Tarjeta
+365,42,Concepción,Smartphone,1354,4,2024-12-21,Tarjeta
+366,59,Concepción,Smartphone,1201,3,2023-07-15,Tarjeta
+367,48,Puerto Montt,Accesorio,1302,1,2024-06-23,Transferencia
+368,20,Puerto Montt,Laptop,1184,3,2022-12-14,Efectivo
+369,57,Valparaíso,Tablet,185,3,2023-11-02,Tarjeta
+370,63,Concepción,Smartphone,411,1,2022-11-13,Efectivo
+371,41,Santiago,Accesorio,1259,3,2023-12-20,Transferencia
+372,49,Puerto Montt,Tablet,1729,2,2024-12-07,Transferencia
+373,64,Santiago,Laptop,1657,1,2022-09-07,Tarjeta
+374,39,Santiago,Accesorio,178,3,2022-11-10,Tarjeta
+375,40,Concepción,Smartphone,1949,5,2024-03-17,Efectivo
+376,19,Concepción,Tablet,1334,3,2023-04-30,Tarjeta
+377,44,Puerto Montt,Smartphone,564,2,2022-02-13,Efectivo
+378,59,Concepción,Laptop,498,4,2023-07-25,Tarjeta
+379,19,Concepción,Tablet,1973,3,2023-08-06,Efectivo
+380,43,Concepción,Laptop,1177,4,2024-06-13,Efectivo
+381,34,Santiago,Laptop,1556,5,2022-08-08,Efectivo
+382,57,Puerto Montt,Accesorio,1297,3,2024-07-13,Efectivo
+383,50,Valparaíso,Smartphone,1905,1,2023-02-05,Transferencia
+384,26,Santiago,Tablet,923,4,2023-12-28,Efectivo
+385,60,Concepción,Laptop,1939,5,2024-09-17,Tarjeta
+386,65,Santiago,Laptop,1564,1,2024-06-17,Transferencia
+387,56,Concepción,Tablet,522,1,2024-05-07,Transferencia
+388,46,Concepción,Laptop,1083,1,2024-03-14,Efectivo
+389,59,Santiago,Accesorio,1478,1,2023-05-05,Transferencia
+390,43,Puerto Montt,Accesorio,1969,3,2024-07-26,Efectivo
+391,52,Concepción,Accesorio,351,3,2024-04-23,Tarjeta
+392,42,Puerto Montt,Accesorio,280,3,2022-09-24,Efectivo
+393,41,Valparaíso,Laptop,1804,5,2022-02-23,Transferencia
+394,30,Concepción,Tablet,972,5,2023-06-12,Tarjeta
+395,24,Puerto Montt,Tablet,1139,5,2023-09-08,Efectivo
+396,53,Puerto Montt,Tablet,986,2,2024-12-18,Tarjeta
+397,62,Valparaíso,Tablet,161,5,2024-11-29,Tarjeta
+398,37,Puerto Montt,Smartphone,1086,3,2024-08-12,Transferencia
+399,18,Puerto Montt,Tablet,1466,3,2023-01-21,Tarjeta
+400,25,Valparaíso,Smartphone,549,2,2024-01-04,Transferencia
+401,63,Concepción,Smartphone,981,2,2023-12-17,Tarjeta
+402,33,Puerto Montt,Accesorio,647,5,2023-10-12,Efectivo
+403,31,Puerto Montt,Smartphone,283,4,2022-10-27,Tarjeta
+404,29,Puerto Montt,Laptop,651,2,2023-01-30,Efectivo
+405,40,Santiago,Smartphone,363,1,2023-08-16,Efectivo
+406,32,Valparaíso,Accesorio,615,3,2023-05-29,Tarjeta
+407,45,Santiago,Smartphone,1085,1,2023-01-31,Efectivo
+408,51,Valparaíso,Laptop,258,3,2023-01-06,Tarjeta
+409,19,Concepción,Laptop,1087,3,2024-05-07,Tarjeta
+410,49,Concepción,Laptop,1706,2,2024-03-01,Efectivo
+411,40,Puerto Montt,Accesorio,1491,2,2023-10-20,Efectivo
+412,39,Valparaíso,Accesorio,1510,1,2024-01-06,Transferencia
+413,42,Concepción,Tablet,1450,3,2023-01-19,Efectivo
+414,39,Valparaíso,Accesorio,1093,1,2022-03-03,Transferencia
+415,39,Concepción,Laptop,636,4,2023-05-20,Efectivo
+416,59,Santiago,Laptop,1985,1,2022-08-27,Tarjeta
+417,23,Concepción,Accesorio,1828,5,2022-07-14,Efectivo
+418,32,Santiago,Smartphone,1808,1,2023-11-09,Tarjeta
+419,60,Concepción,Accesorio,1064,5,2022-03-02,Tarjeta
+420,54,Puerto Montt,Accesorio,1143,5,2024-09-16,Tarjeta
+421,50,Santiago,Laptop,1897,5,2023-11-16,Transferencia
+422,25,Concepción,Tablet,1284,4,2022-06-05,Efectivo
+423,61,Puerto Montt,Laptop,1174,1,2024-07-11,Tarjeta
+424,61,Santiago,Tablet,747,1,2024-05-17,Tarjeta
+425,22,Puerto Montt,Laptop,181,4,2024-06-21,Transferencia
+426,56,Valparaíso,Accesorio,1696,3,2024-09-25,Efectivo
+427,21,Valparaíso,Laptop,1454,2,2024-09-01,Efectivo
+428,23,Santiago,Laptop,1205,1,2023-01-23,Transferencia
+429,62,Concepción,Laptop,1093,2,2024-06-05,Transferencia
+430,49,Santiago,Accesorio,1979,4,2024-04-17,Efectivo
+431,47,Puerto Montt,Accesorio,585,3,2022-12-06,Transferencia
+432,64,Concepción,Accesorio,1063,3,2022-07-23,Efectivo
+433,52,Valparaíso,Accesorio,276,3,2022-06-10,Efectivo
+434,57,Concepción,Tablet,1227,4,2023-01-27,Tarjeta
+435,33,Valparaíso,Tablet,1878,5,2024-02-08,Tarjeta
+436,30,Concepción,Smartphone,1815,5,2023-07-29,Efectivo
+437,59,Concepción,Accesorio,1542,2,2023-06-18,Efectivo
+438,47,Concepción,Tablet,871,5,2024-12-29,Efectivo
+439,36,Puerto Montt,Laptop,920,5,2024-06-11,Efectivo
+440,34,Puerto Montt,Accesorio,454,3,2023-02-09,Efectivo
+441,36,Santiago,Smartphone,251,3,2023-08-31,Efectivo
+442,45,Santiago,Smartphone,87,2,2024-04-07,Transferencia
+443,43,Valparaíso,Smartphone,991,1,2023-11-21,Efectivo
+444,54,Puerto Montt,Laptop,1845,2,2024-06-20,Transferencia
+445,43,Valparaíso,Tablet,237,2,2022-02-25,Transferencia
+446,40,Santiago,Laptop,1130,4,2023-01-01,Efectivo
+447,26,Valparaíso,Accesorio,990,4,2023-03-31,Efectivo
+448,29,Santiago,Smartphone,1093,2,2022-04-14,Transferencia
+449,18,Puerto Montt,Laptop,322,2,2022-03-18,Transferencia
+450,18,Concepción,Laptop,1192,2,2022-08-18,Efectivo
+451,64,Puerto Montt,Tablet,632,5,2022-11-27,Efectivo
+452,51,Valparaíso,Tablet,565,4,2024-06-11,Transferencia
+453,49,Valparaíso,Smartphone,1294,2,2023-11-19,Transferencia
+454,65,Puerto Montt,Laptop,575,3,2022-01-27,Transferencia
+455,42,Puerto Montt,Laptop,1588,3,2022-10-26,Tarjeta
+456,57,Santiago,Tablet,1801,5,2024-08-14,Transferencia
+457,62,Valparaíso,Laptop,1814,5,2024-03-09,Tarjeta
+458,18,Valparaíso,Laptop,385,1,2023-04-25,Efectivo
+459,33,Puerto Montt,Laptop,747,1,2023-07-27,Efectivo
+460,56,Concepción,Tablet,1128,1,2023-04-03,Transferencia
+461,22,Valparaíso,Smartphone,549,5,2022-12-31,Efectivo
+462,39,Concepción,Accesorio,949,5,2024-05-08,Efectivo
+463,46,Puerto Montt,Smartphone,1961,5,2022-12-17,Efectivo
+464,20,Puerto Montt,Accesorio,815,3,2022-09-10,Efectivo
+465,29,Santiago,Laptop,585,5,2024-02-20,Tarjeta
+466,43,Valparaíso,Smartphone,211,3,2024-03-13,Tarjeta
+467,33,Concepción,Accesorio,1743,1,2024-10-08,Transferencia
+468,54,Santiago,Tablet,643,1,2023-04-04,Transferencia
+469,39,Valparaíso,Tablet,1988,1,2024-07-05,Transferencia
+470,46,Santiago,Smartphone,208,2,2023-05-14,Efectivo
+471,31,Puerto Montt,Smartphone,1261,2,2024-08-07,Efectivo
+472,45,Valparaíso,Laptop,109,4,2023-05-23,Tarjeta
+473,22,Santiago,Smartphone,964,4,2023-05-16,Tarjeta
+474,64,Santiago,Laptop,1890,4,2024-03-13,Transferencia
+475,47,Concepción,Laptop,1392,2,2023-08-21,Tarjeta
+476,63,Santiago,Tablet,1951,2,2022-06-15,Tarjeta
+477,22,Valparaíso,Tablet,260,4,2023-04-07,Tarjeta
+478,29,Valparaíso,Accesorio,455,4,2024-07-08,Tarjeta
+479,33,Concepción,Tablet,713,5,2022-04-24,Tarjeta
+480,43,Valparaíso,Tablet,1182,4,2024-09-18,Transferencia
+481,43,Puerto Montt,Smartphone,1149,5,2022-07-26,Transferencia
+482,65,Valparaíso,Tablet,591,3,2023-05-30,Tarjeta
+483,38,Valparaíso,Accesorio,1387,2,2023-12-10,Transferencia
+484,56,Santiago,Smartphone,1047,4,2022-05-18,Efectivo
+485,53,Santiago,Accesorio,1190,2,2022-12-05,Tarjeta
+486,50,Valparaíso,Tablet,976,2,2023-06-21,Efectivo
+487,47,Concepción,Accesorio,917,2,2022-03-09,Transferencia
+488,54,Santiago,Smartphone,1777,3,2023-01-18,Transferencia
+489,40,Concepción,Laptop,68,1,2022-01-19,Efectivo
+490,27,Valparaíso,Accesorio,481,4,2023-11-14,Transferencia
+491,22,Valparaíso,Accesorio,1758,1,2022-03-15,Tarjeta
+492,53,Puerto Montt,Smartphone,789,1,2023-07-27,Efectivo
+493,51,Santiago,Smartphone,1423,1,2024-07-27,Tarjeta
+494,48,Valparaíso,Accesorio,232,2,2024-12-07,Efectivo
+495,27,Puerto Montt,Tablet,162,5,2022-07-30,Transferencia
+496,36,Santiago,Accesorio,1256,2,2024-05-04,Efectivo
+497,49,Valparaíso,Smartphone,530,2,2023-10-13,Efectivo
+498,18,Valparaíso,Laptop,1219,1,2024-09-20,Tarjeta
+499,22,Santiago,Laptop,880,2,2023-11-26,Transferencia
+500,62,Santiago,Tablet,1701,1,2023-06-24,Tarjeta
+501,21,Santiago,Accesorio,1186,5,2024-06-19,Transferencia
+502,33,Valparaíso,Laptop,812,4,2024-02-19,Tarjeta
+503,41,Valparaíso,Accesorio,525,1,2022-06-19,Efectivo
+504,33,Puerto Montt,Smartphone,812,5,2024-11-03,Tarjeta
+505,19,Concepción,Laptop,1376,4,2022-10-15,Transferencia
+506,45,Santiago,Tablet,1020,3,2022-07-08,Transferencia
+507,49,Valparaíso,Smartphone,1898,1,2024-07-02,Efectivo
+508,44,Valparaíso,Tablet,1069,1,2023-11-25,Transferencia
+509,37,Santiago,Smartphone,1191,3,2024-06-06,Tarjeta
+510,41,Concepción,Laptop,1886,3,2023-04-16,Efectivo
+511,29,Santiago,Tablet,210,1,2022-10-04,Transferencia
+512,52,Concepción,Tablet,450,3,2024-07-28,Transferencia
+513,50,Valparaíso,Smartphone,247,2,2023-07-25,Tarjeta
+514,50,Concepción,Tablet,1333,4,2024-05-06,Tarjeta
+515,60,Puerto Montt,Smartphone,709,4,2024-09-27,Efectivo
+516,54,Valparaíso,Smartphone,1825,4,2023-04-03,Transferencia
+517,29,Puerto Montt,Smartphone,1120,2,2024-07-06,Tarjeta
+518,20,Santiago,Smartphone,448,3,2024-04-12,Efectivo
+519,18,Santiago,Laptop,1783,5,2024-12-23,Transferencia
+520,50,Santiago,Smartphone,1632,3,2024-04-18,Transferencia
+521,57,Concepción,Accesorio,127,1,2022-07-12,Efectivo
+522,27,Valparaíso,Tablet,173,4,2023-09-08,Efectivo
+523,60,Santiago,Accesorio,124,3,2023-02-10,Tarjeta
+524,61,Santiago,Laptop,1944,5,2024-07-31,Transferencia
+525,46,Valparaíso,Accesorio,186,1,2023-12-22,Transferencia
+526,30,Santiago,Tablet,651,2,2022-04-03,Transferencia
+527,29,Puerto Montt,Accesorio,1473,2,2023-03-06,Efectivo
+528,48,Valparaíso,Laptop,886,5,2023-10-16,Tarjeta
+529,63,Valparaíso,Smartphone,1578,1,2023-03-10,Transferencia
+530,19,Valparaíso,Accesorio,549,4,2023-01-10,Efectivo
+531,52,Puerto Montt,Laptop,1646,3,2024-12-18,Transferencia
+532,40,Valparaíso,Laptop,187,1,2024-12-02,Tarjeta
+533,34,Puerto Montt,Tablet,99,2,2022-07-26,Transferencia
+534,43,Valparaíso,Tablet,1844,5,2024-02-19,Tarjeta
+535,25,Concepción,Accesorio,1022,5,2023-06-16,Tarjeta
+536,46,Santiago,Smartphone,1692,3,2022-06-15,Transferencia
+537,43,Concepción,Laptop,1698,5,2023-10-05,Transferencia
+538,27,Santiago,Accesorio,1935,5,2022-03-31,Tarjeta
+539,43,Puerto Montt,Laptop,303,1,2022-01-13,Efectivo
+540,51,Concepción,Laptop,1703,4,2024-08-30,Tarjeta
+541,58,Valparaíso,Smartphone,759,3,2024-03-15,Transferencia
+542,24,Santiago,Smartphone,1922,1,2024-08-02,Transferencia
+543,21,Santiago,Accesorio,1950,4,2024-01-12,Efectivo
+544,62,Concepción,Smartphone,612,1,2024-05-25,Tarjeta
+545,28,Puerto Montt,Smartphone,806,1,2023-10-22,Tarjeta
+546,46,Concepción,Accesorio,1988,5,2024-10-28,Tarjeta
+547,53,Puerto Montt,Smartphone,1499,4,2024-11-18,Transferencia
+548,42,Puerto Montt,Tablet,596,3,2022-10-23,Tarjeta
+549,38,Santiago,Laptop,1375,3,2024-09-12,Efectivo
+550,53,Concepción,Laptop,971,4,2024-07-14,Transferencia
+551,27,Concepción,Laptop,630,5,2023-10-02,Transferencia
+552,54,Puerto Montt,Laptop,1422,2,2022-12-06,Tarjeta
+553,26,Concepción,Accesorio,1905,1,2023-09-20,Efectivo
+554,41,Valparaíso,Laptop,98,5,2023-03-15,Transferencia
+555,52,Valparaíso,Laptop,966,4,2024-07-30,Transferencia
+556,52,Concepción,Laptop,1147,1,2024-04-09,Tarjeta
+557,65,Concepción,Laptop,753,3,2023-06-03,Tarjeta
+558,53,Puerto Montt,Tablet,310,2,2024-09-02,Efectivo
+559,35,Valparaíso,Laptop,405,3,2024-12-04,Tarjeta
+560,56,Valparaíso,Tablet,1655,4,2024-08-12,Efectivo
+561,49,Santiago,Accesorio,1675,1,2024-08-09,Transferencia
+562,41,Puerto Montt,Smartphone,1333,4,2024-08-01,Efectivo
+563,40,Santiago,Laptop,687,1,2022-06-04,Efectivo
+564,49,Valparaíso,Smartphone,792,5,2022-03-29,Efectivo
+565,54,Puerto Montt,Smartphone,1368,2,2024-07-19,Transferencia
+566,29,Concepción,Accesorio,1059,5,2022-06-28,Tarjeta
+567,30,Puerto Montt,Smartphone,980,5,2022-07-31,Transferencia
+568,40,Concepción,Tablet,690,4,2023-04-10,Tarjeta
+569,42,Concepción,Smartphone,841,2,2023-09-23,Efectivo
+570,52,Puerto Montt,Smartphone,1386,1,2024-04-04,Efectivo
+571,58,Concepción,Smartphone,661,1,2023-08-30,Efectivo
+572,47,Santiago,Laptop,1911,3,2024-06-03,Efectivo
+573,34,Valparaíso,Laptop,858,1,2023-01-01,Efectivo
+574,37,Concepción,Tablet,1255,4,2022-10-03,Tarjeta
+575,65,Santiago,Tablet,735,5,2023-01-15,Tarjeta
+576,42,Concepción,Laptop,1901,5,2024-08-02,Efectivo
+577,39,Valparaíso,Tablet,1437,5,2024-12-23,Transferencia
+578,30,Santiago,Laptop,237,2,2024-03-20,Transferencia
+579,36,Valparaíso,Accesorio,1642,1,2024-07-13,Efectivo
+580,53,Valparaíso,Smartphone,1616,4,2023-05-09,Tarjeta
+581,29,Santiago,Smartphone,1669,2,2024-12-30,Transferencia
+582,58,Santiago,Tablet,1737,3,2022-12-30,Transferencia
+583,36,Santiago,Laptop,1034,4,2023-07-24,Transferencia
+584,29,Puerto Montt,Laptop,597,4,2024-02-02,Efectivo
+585,26,Santiago,Tablet,774,4,2022-10-03,Transferencia
+586,24,Santiago,Laptop,975,5,2022-02-19,Transferencia
+587,45,Santiago,Accesorio,1481,4,2023-12-29,Transferencia
+588,31,Santiago,Smartphone,925,1,2024-06-24,Transferencia
+589,48,Concepción,Tablet,667,4,2024-07-16,Tarjeta
+590,36,Puerto Montt,Tablet,463,5,2023-07-18,Efectivo
+591,64,Valparaíso,Laptop,1415,4,2024-02-22,Efectivo
+592,33,Santiago,Tablet,1293,3,2023-04-30,Tarjeta
+593,22,Concepción,Accesorio,952,3,2023-08-07,Tarjeta
+594,52,Concepción,Laptop,212,5,2022-08-24,Efectivo
+595,29,Concepción,Laptop,1293,1,2022-02-25,Transferencia
+596,42,Valparaíso,Laptop,319,1,2022-12-26,Transferencia
+597,38,Santiago,Laptop,681,2,2022-04-20,Efectivo
+598,53,Puerto Montt,Accesorio,955,5,2022-07-11,Transferencia
+599,40,Puerto Montt,Laptop,1921,4,2024-06-22,Tarjeta
+600,33,Concepción,Tablet,1473,5,2024-05-11,Transferencia
+601,56,Valparaíso,Accesorio,1255,2,2023-07-22,Transferencia
+602,62,Valparaíso,Smartphone,1691,5,2024-12-19,Transferencia
+603,59,Valparaíso,Smartphone,1802,5,2023-10-12,Efectivo
+604,56,Puerto Montt,Tablet,254,2,2022-02-08,Tarjeta
+605,31,Concepción,Tablet,631,1,2024-12-08,Transferencia
+606,48,Santiago,Accesorio,1629,4,2023-09-29,Efectivo
+607,22,Puerto Montt,Smartphone,890,2,2024-11-02,Transferencia
+608,52,Concepción,Smartphone,1886,3,2022-02-05,Tarjeta
+609,40,Concepción,Smartphone,1301,1,2022-04-11,Transferencia
+610,46,Santiago,Smartphone,1769,3,2022-06-15,Tarjeta
+611,60,Santiago,Smartphone,1692,1,2023-01-18,Transferencia
+612,28,Santiago,Laptop,645,4,2024-02-29,Tarjeta
+613,35,Valparaíso,Tablet,1923,4,2022-01-31,Transferencia
+614,64,Santiago,Laptop,299,5,2022-01-11,Tarjeta
+615,29,Concepción,Smartphone,924,3,2022-04-06,Transferencia
+616,26,Santiago,Accesorio,1514,1,2023-03-29,Transferencia
+617,27,Concepción,Accesorio,1606,4,2022-07-11,Efectivo
+618,61,Puerto Montt,Smartphone,245,2,2023-05-01,Efectivo
+619,34,Valparaíso,Smartphone,739,4,2022-08-26,Tarjeta
+620,55,Puerto Montt,Accesorio,1592,2,2024-12-24,Transferencia
+621,24,Puerto Montt,Laptop,1143,1,2024-01-05,Tarjeta
+622,63,Concepción,Laptop,688,4,2024-09-17,Efectivo
+623,30,Puerto Montt,Smartphone,1472,4,2024-04-04,Tarjeta
+624,57,Concepción,Laptop,721,1,2022-04-16,Tarjeta
+625,59,Santiago,Accesorio,1833,4,2022-06-30,Efectivo
+626,26,Santiago,Laptop,1276,2,2022-07-03,Transferencia
+627,44,Concepción,Smartphone,1221,4,2022-08-14,Tarjeta
+628,19,Santiago,Accesorio,1545,3,2024-02-16,Efectivo
+629,22,Valparaíso,Laptop,1728,5,2024-02-29,Transferencia
+630,46,Puerto Montt,Tablet,993,2,2023-11-19,Efectivo
+631,54,Valparaíso,Accesorio,248,3,2023-06-14,Tarjeta
+632,55,Puerto Montt,Accesorio,1990,1,2024-08-29,Transferencia
+633,36,Santiago,Tablet,1499,2,2024-07-24,Transferencia
+634,25,Valparaíso,Tablet,1739,5,2022-04-16,Efectivo
+635,65,Santiago,Accesorio,541,5,2024-04-10,Efectivo
+636,62,Puerto Montt,Tablet,1961,1,2023-11-10,Efectivo
+637,18,Concepción,Smartphone,945,1,2024-04-28,Transferencia
+638,39,Concepción,Smartphone,191,2,2024-11-21,Transferencia
+639,34,Valparaíso,Smartphone,1386,4,2023-01-28,Tarjeta
+640,24,Santiago,Accesorio,214,1,2022-02-09,Transferencia
+641,42,Santiago,Tablet,363,4,2023-10-22,Tarjeta
+642,62,Valparaíso,Tablet,70,3,2024-09-07,Efectivo
+643,21,Concepción,Laptop,1155,5,2024-04-24,Efectivo
+644,53,Puerto Montt,Laptop,1654,4,2022-07-20,Transferencia
+645,23,Valparaíso,Tablet,1204,5,2023-03-23,Efectivo
+646,48,Puerto Montt,Tablet,1672,4,2024-11-27,Efectivo
+647,36,Concepción,Tablet,1803,3,2023-03-20,Transferencia
+648,61,Santiago,Accesorio,1033,1,2024-01-31,Tarjeta
+649,56,Concepción,Tablet,354,3,2022-08-15,Transferencia
+650,44,Valparaíso,Laptop,1988,1,2022-02-17,Tarjeta
+651,27,Santiago,Accesorio,420,1,2024-11-07,Transferencia
+652,43,Valparaíso,Tablet,1930,5,2024-06-30,Transferencia
+653,36,Valparaíso,Laptop,902,3,2022-07-06,Efectivo
+654,56,Concepción,Accesorio,433,4,2022-12-11,Transferencia
+655,20,Valparaíso,Tablet,1981,3,2022-08-12,Transferencia
+656,62,Concepción,Tablet,494,5,2024-04-09,Tarjeta
+657,30,Santiago,Tablet,474,1,2023-05-03,Efectivo
+658,45,Concepción,Accesorio,210,5,2024-05-26,Tarjeta
+659,37,Santiago,Laptop,1251,2,2024-04-28,Tarjeta
+660,45,Concepción,Laptop,678,2,2024-09-05,Efectivo
+661,25,Puerto Montt,Smartphone,1781,4,2024-10-13,Efectivo
+662,58,Puerto Montt,Tablet,944,5,2022-07-07,Efectivo
+663,56,Valparaíso,Smartphone,539,4,2022-09-27,Transferencia
+664,18,Concepción,Smartphone,1066,4,2022-11-06,Efectivo
+665,20,Concepción,Laptop,376,2,2024-12-31,Efectivo
+666,30,Santiago,Accesorio,647,4,2024-04-24,Efectivo
+667,45,Valparaíso,Accesorio,1064,2,2023-05-01,Tarjeta
+668,42,Concepción,Laptop,338,1,2022-04-30,Tarjeta
+669,50,Valparaíso,Accesorio,642,5,2022-08-08,Transferencia
+670,55,Puerto Montt,Smartphone,1737,4,2022-02-22,Tarjeta
+671,23,Concepción,Tablet,1646,2,2024-01-28,Transferencia
+672,61,Concepción,Laptop,622,3,2024-01-08,Tarjeta
+673,62,Valparaíso,Tablet,1427,4,2023-12-21,Efectivo
+674,49,Concepción,Accesorio,77,1,2023-02-10,Tarjeta
+675,62,Valparaíso,Tablet,1003,1,2023-08-31,Transferencia
+676,64,Concepción,Accesorio,92,3,2024-10-17,Tarjeta
+677,38,Santiago,Accesorio,1754,2,2023-02-26,Efectivo
+678,33,Valparaíso,Smartphone,472,4,2023-12-13,Transferencia
+679,38,Concepción,Accesorio,1671,2,2022-09-04,Efectivo
+680,28,Puerto Montt,Smartphone,226,1,2022-03-13,Efectivo
+681,54,Concepción,Smartphone,578,2,2022-07-04,Transferencia
+682,53,Puerto Montt,Smartphone,1683,1,2022-01-06,Efectivo
+683,52,Puerto Montt,Laptop,1015,2,2024-06-24,Efectivo
+684,36,Santiago,Laptop,1567,3,2023-01-22,Tarjeta
+685,37,Valparaíso,Accesorio,247,5,2023-11-30,Efectivo
+686,35,Concepción,Smartphone,659,3,2024-04-06,Efectivo
+687,64,Santiago,Laptop,1650,3,2022-12-15,Efectivo
+688,58,Concepción,Smartphone,891,5,2022-11-04,Efectivo
+689,31,Puerto Montt,Tablet,902,5,2022-10-14,Transferencia
+690,32,Valparaíso,Tablet,1590,4,2024-02-05,Tarjeta
+691,48,Concepción,Tablet,1587,4,2023-12-26,Efectivo
+692,18,Concepción,Accesorio,71,3,2024-02-01,Efectivo
+693,20,Puerto Montt,Smartphone,1185,3,2023-01-18,Transferencia
+694,33,Concepción,Tablet,1130,1,2023-01-23,Efectivo
+695,40,Concepción,Laptop,1139,1,2023-06-09,Transferencia
+696,28,Puerto Montt,Tablet,891,4,2023-10-01,Tarjeta
+697,29,Santiago,Tablet,147,4,2024-07-26,Tarjeta
+698,27,Puerto Montt,Tablet,1217,1,2022-10-03,Efectivo
+699,49,Santiago,Accesorio,1953,1,2023-05-15,Efectivo
+700,33,Valparaíso,Laptop,484,2,2023-12-18,Efectivo
+701,25,Santiago,Smartphone,686,2,2022-12-03,Transferencia
+702,55,Santiago,Laptop,1752,1,2024-07-20,Efectivo
+703,29,Valparaíso,Smartphone,1159,2,2023-04-26,Efectivo
+704,41,Santiago,Accesorio,637,5,2024-06-29,Tarjeta
+705,45,Puerto Montt,Accesorio,393,4,2024-12-17,Efectivo
+706,25,Santiago,Accesorio,1367,4,2022-04-19,Tarjeta
+707,45,Valparaíso,Accesorio,620,1,2022-11-24,Efectivo
+708,53,Puerto Montt,Smartphone,1723,3,2022-11-11,Tarjeta
+709,43,Valparaíso,Tablet,660,1,2023-11-30,Efectivo
+710,25,Valparaíso,Smartphone,1777,2,2024-02-20,Tarjeta
+711,45,Concepción,Laptop,292,3,2022-06-05,Transferencia
+712,45,Concepción,Accesorio,1904,2,2024-06-05,Tarjeta
+713,54,Valparaíso,Accesorio,610,5,2024-10-22,Tarjeta
+714,58,Valparaíso,Laptop,1009,2,2024-01-28,Tarjeta
+715,53,Valparaíso,Smartphone,81,5,2023-12-23,Efectivo
+716,44,Concepción,Tablet,440,5,2024-07-01,Efectivo
+717,34,Concepción,Tablet,326,2,2024-05-20,Efectivo
+718,26,Santiago,Laptop,581,2,2022-01-13,Transferencia
+719,50,Santiago,Tablet,1227,5,2023-08-31,Transferencia
+720,37,Valparaíso,Smartphone,432,3,2023-05-13,Tarjeta
+721,30,Puerto Montt,Smartphone,1141,5,2022-08-26,Transferencia
+722,45,Puerto Montt,Laptop,1951,4,2024-02-20,Tarjeta
+723,65,Concepción,Smartphone,933,5,2023-08-29,Tarjeta
+724,46,Concepción,Accesorio,263,3,2023-10-23,Tarjeta
+725,30,Concepción,Laptop,1728,4,2024-04-28,Transferencia
+726,63,Valparaíso,Smartphone,425,1,2024-07-24,Efectivo
+727,52,Puerto Montt,Laptop,793,1,2023-09-20,Transferencia
+728,23,Santiago,Tablet,262,3,2022-05-23,Tarjeta
+729,35,Valparaíso,Smartphone,128,5,2023-12-15,Tarjeta
+730,22,Santiago,Accesorio,1799,2,2023-04-24,Transferencia
+731,64,Santiago,Smartphone,677,3,2023-07-19,Tarjeta
+732,42,Valparaíso,Laptop,653,4,2023-04-16,Tarjeta
+733,19,Santiago,Laptop,831,4,2023-01-19,Transferencia
+734,27,Puerto Montt,Smartphone,1996,1,2024-07-14,Transferencia
+735,47,Santiago,Accesorio,1454,4,2023-02-21,Transferencia
+736,62,Puerto Montt,Accesorio,1050,3,2022-11-04,Tarjeta
+737,22,Puerto Montt,Accesorio,729,4,2023-10-11,Tarjeta
+738,50,Puerto Montt,Laptop,107,3,2024-10-21,Efectivo
+739,18,Concepción,Smartphone,1869,2,2024-12-03,Efectivo
+740,35,Santiago,Tablet,1099,1,2024-01-09,Transferencia
+741,49,Valparaíso,Laptop,930,4,2022-05-20,Efectivo
+742,64,Valparaíso,Accesorio,496,3,2024-08-31,Tarjeta
+743,28,Santiago,Smartphone,115,5,2024-10-13,Efectivo
+744,38,Concepción,Accesorio,1994,1,2024-08-10,Tarjeta
+745,43,Concepción,Tablet,1833,2,2024-06-22,Transferencia
+746,42,Puerto Montt,Accesorio,1327,3,2022-03-13,Transferencia
+747,39,Santiago,Accesorio,1972,2,2022-04-17,Tarjeta
+748,44,Santiago,Tablet,1117,2,2024-12-01,Efectivo
+749,30,Valparaíso,Smartphone,1170,4,2024-06-01,Transferencia
+750,50,Santiago,Laptop,1627,4,2022-05-19,Transferencia
+751,51,Concepción,Smartphone,1061,3,2023-09-07,Efectivo
+752,58,Santiago,Tablet,276,5,2024-05-12,Efectivo
+753,52,Valparaíso,Accesorio,823,3,2022-09-30,Tarjeta
+754,18,Puerto Montt,Smartphone,728,5,2023-02-20,Efectivo
+755,38,Valparaíso,Laptop,1509,2,2023-05-21,Efectivo
+756,65,Valparaíso,Tablet,1864,1,2024-01-03,Efectivo
+757,23,Puerto Montt,Smartphone,650,3,2023-02-28,Tarjeta
+758,45,Valparaíso,Laptop,428,3,2023-01-25,Tarjeta
+759,34,Valparaíso,Tablet,1251,5,2022-12-08,Transferencia
+760,22,Santiago,Laptop,1500,2,2024-08-03,Tarjeta
+761,48,Santiago,Tablet,1988,2,2023-09-06,Transferencia
+762,22,Puerto Montt,Accesorio,758,5,2023-05-08,Efectivo
+763,55,Santiago,Smartphone,356,2,2022-07-11,Transferencia
+764,20,Santiago,Laptop,828,4,2023-05-14,Transferencia
+765,40,Valparaíso,Tablet,553,1,2024-04-01,Efectivo
+766,54,Concepción,Laptop,317,3,2022-08-15,Transferencia
+767,54,Santiago,Laptop,1659,1,2022-05-19,Tarjeta
+768,27,Concepción,Smartphone,57,3,2024-05-05,Tarjeta
+769,27,Santiago,Accesorio,1993,4,2024-03-27,Tarjeta
+770,36,Santiago,Laptop,557,2,2024-12-22,Tarjeta
+771,34,Puerto Montt,Tablet,525,5,2022-04-14,Transferencia
+772,38,Puerto Montt,Tablet,1370,4,2024-05-20,Transferencia
+773,31,Puerto Montt,Accesorio,213,1,2023-10-30,Efectivo
+774,26,Concepción,Tablet,534,5,2022-09-30,Transferencia
+775,63,Valparaíso,Accesorio,1670,2,2024-10-26,Transferencia
+776,18,Santiago,Tablet,1145,4,2022-07-03,Transferencia
+777,62,Santiago,Smartphone,616,5,2024-11-17,Efectivo
+778,30,Santiago,Laptop,954,4,2022-10-20,Tarjeta
+779,21,Concepción,Smartphone,608,4,2022-06-26,Transferencia
+780,18,Puerto Montt,Laptop,1984,2,2022-02-27,Efectivo
+781,57,Valparaíso,Laptop,287,3,2022-11-04,Efectivo
+782,49,Concepción,Laptop,1177,5,2024-09-03,Efectivo
+783,51,Puerto Montt,Smartphone,1283,2,2023-12-01,Tarjeta
+784,45,Concepción,Laptop,603,4,2022-03-24,Transferencia
+785,48,Valparaíso,Smartphone,877,2,2022-09-09,Efectivo
+786,25,Puerto Montt,Accesorio,517,3,2024-03-06,Tarjeta
+787,56,Concepción,Tablet,1527,5,2024-06-15,Efectivo
+788,43,Valparaíso,Tablet,1341,3,2022-07-29,Efectivo
+789,51,Santiago,Laptop,435,1,2024-03-26,Efectivo
+790,20,Valparaíso,Smartphone,824,5,2023-09-01,Efectivo
+791,29,Santiago,Tablet,897,3,2023-03-23,Efectivo
+792,18,Concepción,Smartphone,436,4,2023-04-05,Tarjeta
+793,61,Puerto Montt,Smartphone,926,5,2024-08-25,Transferencia
+794,22,Puerto Montt,Laptop,308,5,2023-04-17,Transferencia
+795,47,Concepción,Tablet,332,2,2023-01-05,Transferencia
+796,47,Puerto Montt,Laptop,1699,4,2024-06-18,Transferencia
+797,34,Puerto Montt,Laptop,1948,1,2024-07-11,Tarjeta
+798,65,Santiago,Tablet,89,3,2022-05-17,Tarjeta
+799,64,Concepción,Tablet,535,2,2023-01-02,Tarjeta
+800,40,Valparaíso,Accesorio,978,3,2024-06-30,Efectivo
+801,32,Santiago,Accesorio,269,1,2022-07-03,Efectivo
+802,54,Concepción,Smartphone,1202,1,2023-04-17,Efectivo
+803,38,Santiago,Tablet,1064,5,2023-10-16,Transferencia
+804,31,Valparaíso,Accesorio,1073,1,2024-01-19,Efectivo
+805,19,Valparaíso,Smartphone,1593,3,2023-06-21,Transferencia
+806,28,Concepción,Smartphone,662,4,2024-03-12,Efectivo
+807,56,Valparaíso,Smartphone,977,4,2024-07-08,Transferencia
+808,55,Santiago,Accesorio,1965,5,2023-05-25,Efectivo
+809,51,Valparaíso,Tablet,737,3,2023-09-22,Efectivo
+810,55,Santiago,Laptop,1692,3,2024-09-28,Tarjeta
+811,51,Santiago,Smartphone,662,1,2024-07-04,Efectivo
+812,35,Valparaíso,Accesorio,309,3,2024-10-30,Efectivo
+813,47,Concepción,Accesorio,1039,2,2022-06-01,Tarjeta
+814,32,Puerto Montt,Laptop,1015,1,2024-10-25,Transferencia
+815,44,Valparaíso,Laptop,415,2,2023-04-09,Tarjeta
+816,51,Santiago,Accesorio,1831,5,2022-09-28,Tarjeta
+817,55,Santiago,Tablet,1860,4,2023-04-05,Transferencia
+818,50,Valparaíso,Laptop,593,5,2022-04-15,Efectivo
+819,41,Concepción,Accesorio,698,4,2022-06-11,Transferencia
+820,32,Concepción,Laptop,1597,5,2022-12-17,Efectivo
+821,47,Santiago,Tablet,1980,3,2023-03-10,Efectivo
+822,59,Santiago,Smartphone,863,2,2024-05-01,Transferencia
+823,34,Concepción,Laptop,1960,4,2022-05-20,Tarjeta
+824,22,Puerto Montt,Tablet,1089,1,2022-03-28,Transferencia
+825,46,Valparaíso,Accesorio,1202,2,2022-07-02,Efectivo
+826,21,Santiago,Laptop,624,1,2023-01-03,Transferencia
+827,27,Santiago,Laptop,1182,2,2022-05-09,Transferencia
+828,34,Concepción,Accesorio,1960,2,2023-11-01,Efectivo
+829,27,Valparaíso,Smartphone,1062,5,2022-05-29,Tarjeta
+830,34,Concepción,Accesorio,1606,4,2024-09-11,Transferencia
+831,37,Valparaíso,Laptop,719,4,2024-05-01,Efectivo
+832,41,Valparaíso,Accesorio,318,2,2023-09-20,Efectivo
+833,22,Valparaíso,Tablet,1235,3,2023-03-22,Transferencia
+834,51,Santiago,Accesorio,1333,3,2024-06-02,Tarjeta
+835,23,Puerto Montt,Laptop,973,1,2022-10-21,Transferencia
+836,19,Concepción,Accesorio,1175,1,2022-09-07,Tarjeta
+837,30,Puerto Montt,Smartphone,1579,5,2024-05-27,Tarjeta
+838,60,Concepción,Accesorio,1808,2,2024-08-05,Tarjeta
+839,60,Valparaíso,Smartphone,1644,1,2024-09-01,Tarjeta
+840,65,Santiago,Tablet,296,1,2024-11-14,Transferencia
+841,28,Puerto Montt,Smartphone,1713,2,2024-02-28,Efectivo
+842,64,Santiago,Accesorio,1868,5,2024-09-10,Efectivo
+843,40,Concepción,Laptop,1910,1,2024-06-07,Efectivo
+844,33,Santiago,Smartphone,1610,5,2024-06-08,Efectivo
+845,48,Santiago,Tablet,180,4,2022-03-11,Efectivo
+846,28,Puerto Montt,Smartphone,402,5,2023-09-17,Efectivo
+847,33,Valparaíso,Smartphone,245,3,2024-05-24,Transferencia
+848,25,Santiago,Smartphone,1866,3,2023-04-16,Tarjeta
+849,21,Valparaíso,Tablet,1989,5,2022-04-01,Efectivo
+850,57,Concepción,Accesorio,979,3,2023-06-14,Transferencia
+851,21,Santiago,Smartphone,1739,4,2023-10-23,Efectivo
+852,42,Puerto Montt,Smartphone,1455,2,2024-01-09,Efectivo
+853,20,Concepción,Laptop,1071,3,2023-12-27,Tarjeta
+854,49,Concepción,Tablet,694,3,2024-05-21,Tarjeta
+855,20,Puerto Montt,Smartphone,276,5,2022-07-11,Tarjeta
+856,44,Santiago,Tablet,750,4,2022-05-18,Efectivo
+857,46,Santiago,Smartphone,1549,2,2022-12-11,Efectivo
+858,49,Concepción,Accesorio,1550,5,2024-10-05,Efectivo
+859,36,Santiago,Accesorio,314,5,2023-05-18,Tarjeta
+860,38,Valparaíso,Smartphone,1445,4,2022-07-22,Transferencia
+861,22,Puerto Montt,Accesorio,1559,2,2023-07-27,Efectivo
+862,35,Valparaíso,Smartphone,1507,4,2022-07-11,Efectivo
+863,45,Santiago,Accesorio,695,2,2022-01-05,Efectivo
+864,59,Concepción,Laptop,260,4,2022-11-07,Transferencia
+865,39,Puerto Montt,Laptop,1645,5,2023-07-03,Efectivo
+866,38,Santiago,Laptop,1450,5,2022-02-25,Transferencia
+867,23,Santiago,Tablet,1468,1,2023-03-19,Efectivo
+868,18,Concepción,Tablet,1523,3,2024-05-19,Transferencia
+869,22,Concepción,Laptop,992,4,2023-08-08,Efectivo
+870,58,Valparaíso,Tablet,1437,1,2024-01-22,Tarjeta
+871,29,Puerto Montt,Accesorio,1949,3,2022-12-26,Tarjeta
+872,43,Puerto Montt,Smartphone,506,4,2024-03-29,Tarjeta
+873,63,Concepción,Smartphone,774,2,2022-01-30,Tarjeta
+874,51,Valparaíso,Smartphone,1801,3,2022-04-18,Efectivo
+875,31,Puerto Montt,Laptop,1299,5,2024-04-23,Tarjeta
+876,43,Concepción,Tablet,1031,1,2023-12-18,Transferencia
+877,62,Santiago,Accesorio,1204,3,2024-06-09,Tarjeta
+878,44,Puerto Montt,Accesorio,637,3,2024-08-17,Tarjeta
+879,26,Valparaíso,Laptop,525,5,2024-06-11,Tarjeta
+880,43,Valparaíso,Accesorio,1871,4,2024-01-02,Efectivo
+881,64,Valparaíso,Accesorio,1035,2,2023-08-29,Tarjeta
+882,39,Santiago,Accesorio,1350,5,2023-04-02,Transferencia
+883,64,Puerto Montt,Accesorio,205,2,2023-09-07,Tarjeta
+884,47,Puerto Montt,Tablet,1833,4,2023-11-29,Tarjeta
+885,60,Santiago,Accesorio,1291,3,2023-11-05,Tarjeta
+886,65,Puerto Montt,Smartphone,239,2,2023-06-27,Transferencia
+887,34,Santiago,Laptop,1490,1,2024-05-06,Tarjeta
+888,43,Santiago,Tablet,1030,1,2024-06-15,Transferencia
+889,53,Santiago,Accesorio,1748,5,2022-10-05,Transferencia
+890,18,Valparaíso,Tablet,1765,4,2023-07-06,Tarjeta
+891,25,Puerto Montt,Accesorio,595,5,2022-04-21,Transferencia
+892,52,Santiago,Smartphone,90,5,2023-01-20,Efectivo
+893,32,Puerto Montt,Laptop,356,5,2024-01-31,Tarjeta
+894,64,Valparaíso,Accesorio,992,1,2023-11-25,Tarjeta
+895,39,Santiago,Accesorio,387,1,2023-02-09,Transferencia
+896,31,Concepción,Accesorio,1387,5,2022-01-22,Transferencia
+897,43,Valparaíso,Accesorio,1148,1,2023-11-09,Tarjeta
+898,45,Concepción,Laptop,1002,4,2023-09-03,Efectivo
+899,40,Puerto Montt,Laptop,328,5,2022-01-08,Transferencia
+900,31,Puerto Montt,Smartphone,1249,1,2023-12-03,Transferencia
+901,41,Valparaíso,Laptop,945,2,2023-06-13,Efectivo
+902,19,Puerto Montt,Accesorio,1735,5,2023-08-25,Efectivo
+903,62,Concepción,Smartphone,322,5,2023-10-19,Tarjeta
+904,43,Santiago,Smartphone,886,4,2022-06-15,Efectivo
+905,31,Santiago,Smartphone,669,3,2024-04-28,Tarjeta
+906,24,Santiago,Accesorio,1724,3,2023-05-11,Efectivo
+907,20,Valparaíso,Tablet,911,4,2023-08-13,Transferencia
+908,64,Puerto Montt,Accesorio,1856,4,2023-03-05,Tarjeta
+909,40,Concepción,Laptop,1932,4,2024-02-13,Tarjeta
+910,63,Puerto Montt,Laptop,980,3,2022-06-12,Tarjeta
+911,60,Puerto Montt,Accesorio,338,4,2023-01-01,Efectivo
+912,64,Puerto Montt,Accesorio,773,1,2022-03-13,Transferencia
+913,62,Santiago,Smartphone,942,5,2023-10-17,Tarjeta
+914,35,Concepción,Accesorio,321,5,2022-09-26,Tarjeta
+915,55,Concepción,Smartphone,1139,2,2023-02-19,Tarjeta
+916,52,Puerto Montt,Laptop,532,2,2024-10-12,Tarjeta
+917,32,Santiago,Smartphone,985,5,2023-11-06,Transferencia
+918,42,Santiago,Accesorio,297,1,2024-12-19,Efectivo
+919,54,Concepción,Laptop,205,3,2022-01-06,Transferencia
+920,45,Santiago,Tablet,1120,3,2024-09-08,Tarjeta
+921,27,Santiago,Smartphone,503,1,2023-07-24,Transferencia
+922,56,Santiago,Laptop,250,3,2023-02-11,Tarjeta
+923,34,Valparaíso,Smartphone,1733,4,2022-01-26,Efectivo
+924,56,Puerto Montt,Laptop,173,5,2024-10-25,Efectivo
+925,39,Concepción,Laptop,50,5,2024-09-12,Efectivo
+926,43,Concepción,Smartphone,1017,1,2023-01-25,Tarjeta
+927,61,Valparaíso,Tablet,1832,3,2023-12-11,Transferencia
+928,42,Puerto Montt,Laptop,904,2,2023-07-25,Efectivo
+929,34,Concepción,Laptop,689,2,2024-01-24,Tarjeta
+930,30,Santiago,Laptop,240,3,2022-05-26,Tarjeta
+931,37,Concepción,Tablet,1652,2,2024-02-24,Transferencia
+932,42,Santiago,Tablet,565,1,2023-06-10,Efectivo
+933,21,Valparaíso,Accesorio,491,1,2022-01-13,Tarjeta
+934,27,Santiago,Smartphone,1994,3,2024-06-21,Transferencia
+935,20,Concepción,Tablet,1888,2,2023-01-19,Efectivo
+936,58,Concepción,Smartphone,1879,1,2023-07-10,Transferencia
+937,62,Concepción,Accesorio,192,1,2024-06-05,Transferencia
+938,35,Valparaíso,Smartphone,1264,4,2022-01-19,Tarjeta
+939,64,Valparaíso,Tablet,582,4,2023-07-29,Tarjeta
+940,53,Puerto Montt,Smartphone,276,1,2024-01-21,Tarjeta
+941,64,Concepción,Tablet,1386,3,2024-09-30,Transferencia
+942,39,Santiago,Smartphone,1702,5,2023-02-23,Tarjeta
+943,51,Valparaíso,Tablet,998,5,2023-02-23,Transferencia
+944,64,Concepción,Tablet,1375,1,2022-05-02,Transferencia
+945,25,Concepción,Smartphone,1727,1,2023-03-08,Tarjeta
+946,57,Valparaíso,Accesorio,509,1,2022-02-13,Efectivo
+947,61,Puerto Montt,Laptop,1474,3,2023-01-16,Efectivo
+948,36,Valparaíso,Accesorio,600,4,2022-05-25,Efectivo
+949,59,Valparaíso,Smartphone,442,1,2022-12-29,Transferencia
+950,58,Santiago,Accesorio,1940,1,2024-12-09,Transferencia
+951,54,Santiago,Tablet,1837,2,2024-12-24,Transferencia
+952,23,Puerto Montt,Laptop,894,3,2022-12-21,Tarjeta
+953,43,Concepción,Smartphone,1280,1,2024-03-10,Transferencia
+954,51,Valparaíso,Smartphone,259,2,2024-04-05,Tarjeta
+955,62,Puerto Montt,Smartphone,1188,5,2023-02-02,Tarjeta
+956,23,Santiago,Laptop,1810,1,2024-05-29,Efectivo
+957,54,Valparaíso,Tablet,695,1,2023-04-08,Efectivo
+958,50,Concepción,Smartphone,1324,2,2024-03-18,Efectivo
+959,39,Santiago,Accesorio,268,3,2022-07-06,Tarjeta
+960,38,Santiago,Smartphone,456,1,2024-01-02,Tarjeta
+961,23,Santiago,Smartphone,1516,5,2023-03-05,Tarjeta
+962,23,Puerto Montt,Smartphone,1676,1,2024-05-07,Transferencia
+963,65,Concepción,Smartphone,1427,5,2022-08-25,Tarjeta
+964,21,Valparaíso,Tablet,937,4,2024-02-10,Efectivo
+965,47,Puerto Montt,Accesorio,607,4,2024-01-28,Efectivo
+966,28,Puerto Montt,Tablet,599,5,2022-05-16,Tarjeta
+967,47,Puerto Montt,Accesorio,191,3,2024-03-02,Tarjeta
+968,48,Santiago,Smartphone,661,1,2022-06-20,Efectivo
+969,41,Concepción,Laptop,550,1,2022-06-08,Tarjeta
+970,26,Puerto Montt,Tablet,889,4,2022-07-20,Efectivo
+971,20,Valparaíso,Laptop,751,5,2024-08-19,Transferencia
+972,48,Concepción,Tablet,1620,1,2023-08-06,Efectivo
+973,57,Valparaíso,Smartphone,1732,1,2024-05-25,Transferencia
+974,54,Concepción,Tablet,1615,3,2023-01-06,Tarjeta
+975,53,Valparaíso,Smartphone,1919,2,2022-04-13,Tarjeta
+976,41,Santiago,Tablet,1580,4,2024-09-28,Transferencia
+977,48,Puerto Montt,Smartphone,645,4,2024-09-02,Tarjeta
+978,23,Valparaíso,Smartphone,1954,2,2024-03-08,Transferencia
+979,19,Concepción,Accesorio,330,1,2023-10-20,Tarjeta
+980,37,Puerto Montt,Smartphone,473,3,2024-05-31,Efectivo
+981,45,Puerto Montt,Accesorio,905,3,2024-01-03,Tarjeta
+982,28,Concepción,Smartphone,319,4,2023-02-27,Efectivo
+983,21,Valparaíso,Laptop,203,3,2023-07-26,Efectivo
+984,32,Santiago,Smartphone,663,2,2022-06-20,Transferencia
+985,23,Santiago,Laptop,1800,1,2022-06-22,Tarjeta
+986,47,Valparaíso,Laptop,711,2,2023-10-25,Transferencia
+987,55,Puerto Montt,Smartphone,132,5,2023-03-29,Tarjeta
+988,19,Puerto Montt,Laptop,1695,4,2022-12-16,Efectivo
+989,32,Puerto Montt,Accesorio,996,3,2023-05-09,Efectivo
+990,28,Puerto Montt,Tablet,948,5,2023-09-12,Tarjeta
+991,25,Valparaíso,Smartphone,1499,3,2024-10-24,Tarjeta
+992,43,Puerto Montt,Laptop,1348,1,2024-07-07,Transferencia
+993,62,Concepción,Smartphone,1786,1,2022-01-06,Tarjeta
+994,61,Puerto Montt,Accesorio,333,1,2022-10-15,Tarjeta
+995,22,Santiago,Smartphone,1029,3,2023-08-31,Tarjeta
+996,23,Puerto Montt,Smartphone,222,5,2023-04-02,Transferencia
+997,43,Valparaíso,Laptop,1400,1,2024-10-26,Tarjeta
+998,21,Santiago,Accesorio,1791,5,2023-09-16,Efectivo
+999,36,Valparaíso,Tablet,1136,3,2023-01-11,Transferencia
+1000,37,Valparaíso,Tablet,1146,5,2023-03-23,Transferencia

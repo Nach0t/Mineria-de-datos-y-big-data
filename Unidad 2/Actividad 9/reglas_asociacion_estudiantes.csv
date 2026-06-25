@@ -1,0 +1,9 @@
+antecedents,consequents,support,confidence,lift
+frozenset({'Carrera_Arquitectura'}),frozenset({'Beca_No'}),0.133,0.6616915422885572,0.953446026352388
+frozenset({'Carrera_Arquitectura'}),frozenset({'Beca_Sí'}),0.068,0.3383084577114428,1.105583195135434
+frozenset({'Carrera_Derecho'}),frozenset({'Beca_No'}),0.131,0.6485148514851485,0.9344594401803293
+frozenset({'Carrera_Derecho'}),frozenset({'Beca_Sí'}),0.071,0.3514851485148514,1.1486442761923248
+frozenset({'Carrera_Informática'}),frozenset({'Beca_No'}),0.157,0.7440758293838863,1.0721553737519975
+frozenset({'Carrera_Ingeniería'}),frozenset({'Beca_No'}),0.145,0.7213930348258706,1.0394712317375658
+frozenset({'Carrera_Medicina'}),frozenset({'Beca_No'}),0.128,0.6918918918918919,0.996962380247683
+frozenset({'Carrera_Medicina'}),frozenset({'Beca_Sí'}),0.057,0.3081081081081081,1.00688924218336

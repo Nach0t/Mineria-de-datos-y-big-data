@@ -1,0 +1,6 @@
+ID,Producto,Categoria,Precio,Cantidad,Ingreso,Nivel_Venta
+1,Laptop,Tecnología,800,5,4000,Alto
+2,Mouse,Tecnología,20,50,1000,Medio
+3,Silla,Hogar,100,10,1000,Medio
+4,Escritorio,Hogar,200,7,1400,Medio
+5,Audífonos,Tecnología,50,20,1000,Medio

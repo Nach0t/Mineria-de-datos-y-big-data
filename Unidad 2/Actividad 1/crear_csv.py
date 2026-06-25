@@ -1,0 +1,43 @@
+import pandas as pd
+
+data = [
+["17.432.109-k","Javiera","Alarcón","Soto",29,"$850.000"],
+["15.822.341-5","Roberto","Muñoz","Vera",42,"$1.200.000"],
+["19.110.457-8","Camila","Rojas","Espinoza",24,"$650.000"],
+["12.654.332-1","Marcos","Valenzuela","Pérez",55,"$2.100.000"],
+["18.234.990-4","Elena","Castro","Silva",31,"$980.000"],
+["16.778.223-9","Diego","Herrera","Martínez",38,"$1.150.000"],
+["20.443.112-0","Sofía","Morales","Pardo",22,"$520.000"],
+["14.556.789-2","Andrés","Tapia","González",48,None],
+["13.221.445-6","Patricia","Lagos","Vidal",51,"$1.900.000"],
+["17.990.123-k","Felipe","Saavedra","Méndez",28,"$890.000"],
+["15.822.341-5","Roberto","Muñoz","Vera",42,"$1.200.000"],
+["19.887.654-3","Nicolás","Fuentes","Torres",23,"$600.000"],
+["18.234.990-4","Elena","Castro","Silva",31,"$980.000"],
+["18.556.110-2","Valentina","Núñez","Rivas",30,"$1.050.000"],
+["16.332.998-5","Gonzalo","Paredes","Jara",36,"$1.100.000"],
+["14.990.332-1","Beatriz","Sandoval","Godoy",46,"$1.550.000"],
+["21.223.445-0","Ignacio","Carrasco","Peña",20,"$480.000"],
+["17.112.887-k","Claudia","Vergara","Salinas",29,"$920.000"],
+["12.998.776-4","Jorge","Henríquez","Ruiz",53,"$2.050.000"],
+["18.234.990-4","Elena","Castro","Silva",31,"$980.000"],
+["20.112.554-3","Matías","Cáceres","Bustos",22,"$550.000"],
+["13.887.443-2",None,"Gallardo","Reyes",49,"$1.800.000"],
+["18.112.990-k","Esteban","Figueroa","Donoso",32,"$1.120.000"],
+["16.554.112-7","Natalia","Mena","Leiva",37,"$1.180.000"],
+[None,"Gabriel","Araya","Farías",25,"$720.000"],
+["11.998.112-3","Luis","Pino","Ortiz",57,"$2.250.000"],
+["17.554.887-2","Fernanda","Rozas",None,27,"$870.000"],
+["14.221.556-9","Miauricio","Olivares","Campos",47,"$1.680.000"],
+["20.887.332-1","Constanza","Miranda","Villalobos",21,"$500.000"],
+["15.667.443-k","Rodrigo","Loyola","Maturana",43,"$1.420.000"]
+]
+
+df = pd.DataFrame(data, columns=[
+    "RUT","Nombre","Apellido_Paterno","Apellido_Materno","Edad","Sueldo"
+])
+
+# Guardar CSV
+df.to_csv("trabajadores.csv", index=False)
+
+print("CSV creado correctamente")

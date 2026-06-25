@@ -1,0 +1,5 @@
+support,itemsets
+0.249,frozenset({'Accesorio'})
+0.248,frozenset({'Laptop'})
+0.271,frozenset({'Smartphone'})
+0.232,frozenset({'Tablet'})

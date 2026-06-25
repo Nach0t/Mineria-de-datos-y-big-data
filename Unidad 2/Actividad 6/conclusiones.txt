@@ -1,0 +1,15 @@
+
+1. ¿Qué área de la empresa tiene mejor rendimiento?
+   El mejor rendimiento en desempeño lo presenta el Equipo 3, ya que obtuvo el promedio más alto.
+   En ventas, la categoría con mejor rendimiento es Tecnología por su mayor ingreso acumulado.
+
+2. ¿Qué sucursal presenta mayor desempeño comercial?
+   La sucursal con mayor desempeño comercial es Norte, ya que concentra el mayor ingreso total.
+
+3. ¿Existe relación entre desempeño y ventas?
+   Se puede plantear una relación indirecta: mejores equipos suelen favorecer mejores resultados comerciales.
+   Sin embargo, con los datos entregados no existe un vínculo explícito entre cada equipo y cada sucursal, por lo que la relación es solo inferencial.
+
+4. ¿Qué decisiones recomendarías a la gerencia?
+   - Reforzar la sucursal con menor ingreso mediante capacitación, promociones y seguimiento comercial.
+   - Fortalecer la categoría dominante, ya que es la que más aporta al negocio.

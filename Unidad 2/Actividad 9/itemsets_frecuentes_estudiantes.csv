@@ -1,0 +1,18 @@
+support,itemsets
+0.201,frozenset({'Carrera_Arquitectura'})
+0.202,frozenset({'Carrera_Derecho'})
+0.211,frozenset({'Carrera_Informática'})
+0.201,frozenset({'Carrera_Ingeniería'})
+0.185,frozenset({'Carrera_Medicina'})
+0.694,frozenset({'Beca_No'})
+0.306,frozenset({'Beca_Sí'})
+0.133,"frozenset({'Carrera_Arquitectura', 'Beca_No'})"
+0.068,"frozenset({'Carrera_Arquitectura', 'Beca_Sí'})"
+0.131,"frozenset({'Carrera_Derecho', 'Beca_No'})"
+0.071,"frozenset({'Carrera_Derecho', 'Beca_Sí'})"
+0.157,"frozenset({'Carrera_Informática', 'Beca_No'})"
+0.054,"frozenset({'Carrera_Informática', 'Beca_Sí'})"
+0.145,"frozenset({'Carrera_Ingeniería', 'Beca_No'})"
+0.056,"frozenset({'Carrera_Ingeniería', 'Beca_Sí'})"
+0.128,"frozenset({'Carrera_Medicina', 'Beca_No'})"
+0.057,"frozenset({'Carrera_Medicina', 'Beca_Sí'})"

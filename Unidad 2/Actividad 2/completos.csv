@@ -1,0 +1,48 @@
+RUT,Nombre,Apellido_Paterno,Apellido_Materno,Sexo,Edad,Ciudad,Promedio,Nombre_Completo
+21.344.556-7,Martina,Lagos,Silva,F,18.0,Puerto Montt,6.5,Martina Lagos Silva
+20.988.123-k,Benjamín,Oyarzún,Ruiz,M,19.0,Osorno,5.8,Benjamín Oyarzún Ruiz
+22.112.443-4,Sofía,Cárdenas,Mansilla,F,17.0,Castro,6.2,Sofía Cárdenas Mansilla
+20.776.554-9,Florencia,Muñoz,Soto,F,20.0,Ancud,5.9,Florencia Muñoz Soto
+21.221.998-0,Lucas,Paredes,Vidal,M,18.0,Frutillar,6.8,Lucas Paredes Vidal
+22.443.112-5,Isabella,Barrientos,Díaz,F,17.0,Quellón,5.4,Isabella Barrientos Díaz
+20.332.887-6,Joaquín,Aguilar,Torres,M,21.0,Llanquihue,6.1,Joaquín Aguilar Torres
+21.332.776-k,Catalina,Rivas,Salinas,F,18.0,Castro,6.1,Catalina Rivas Salinas
+22.554.110-3,Valentina,Ulloa,Rojas,F,17.0,Chonchi,6.7,Valentina Ulloa Rojas
+21.887.223-4,Matías,Gómez,Ibáñez,M,18.0,Puerto Montt,5.5,Matías Gómez Ibáñez
+20.443.998-1,Elena,Guerrero,Castro,F,20.0,Osorno,6.0,Elena Guerrero Castro
+21.990.554-7,Tomás,Almonacid,Bahamonde,M,18.0,Castro,4.2,Tomás Almonacid Bahamonde
+22.221.334-0,Josefa,Villarroel,Núñez,F,17.0,Puerto Varas,6.9,Josefa Villarroel Núñez
+21.443.887-5,Emilia,Gallardo,Pardo,F,18.0,Frutillar,6.3,Emilia Gallardo Pardo
+20.887.443-2,Maximiliano,Cárcamo,Ojeda,M,20.0,Quellón,5.1,Maximiliano Cárcamo Ojeda
+21.112.665-4,Felipe,Arriagada,Saavedra,M,18.0,Calbuco,4.8,Felipe Arriagada Saavedra
+20.554.332-9,Antonella,Saldivia,Valenzuela,F,19.0,Purranque,5.6,Antonella Saldivia Valenzuela
+21.776.998-1,Samuel,Carrasco,Godoy,M,18.0,Chonchi,6.4,Samuel Carrasco Godoy
+22.665.221-7,Fernanda,Henríquez,Méndez,F,17.0,Puerto Montt,5.3,Fernanda Henríquez Méndez
+20.221.554-3,Francisco,Orellana,Tapia,M,21.0,Osorno,5.9,Francisco Orellana Tapia
+22.112.887-4,Maite,Figueroa,Maturana,F,17.0,Ancud,6.8,Maite Figueroa Maturana
+21.554.665-1,Benjamín,Leiva,Donoso,M,18.0,Frutillar,5.0,Benjamín Leiva Donoso
+20.776.332-9,Constanza,Mena,Palma,F,20.0,Quellón,5.2,Constanza Mena Palma
+21.221.443-0,Vicente,Pino,Ortiz,M,18.0,Llanquihue,5.4,Vicente Pino Ortiz
+21.002.334-5,Matías,Schwaner,Werner,M,19.0,Puerto Varas,6.1,Matías Schwaner Werner
+20.881.442-k,Javiera,Cárcamo,Mansilla,F,20.0,Castro,5.4,Javiera Cárcamo Mansilla
+22.109.887-3,Rodrigo,Paredes,Soto,M,17.0,Osorno,4.9,Rodrigo Paredes Soto
+21.554.221-8,Constanza,Vera,Ruiz,F,18.0,Puerto Montt,6.7,Constanza Vera Ruiz
+20.332.112-9,Sebastián,Aguilar,Bahamonde,M,21.0,Ancud,5.2,Sebastián Aguilar Bahamonde
+21.667.443-0,Antonia,González,Ojeda,F,18.0,Quellón,5.8,Antonia González Ojeda
+22.445.667-1,Ignacio,Martínez,Silva,M,17.0,Frutillar,6.3,Ignacio Martínez Silva
+20.112.998-k,Fernanda,Oyarzo,Vidal,F,19.0,Calbuco,4.5,Fernanda Oyarzo Vidal
+22.334.556-2,Valentina,Rojas,Espinoza,F,17.0,Purranque,6.0,Valentina Rojas Espinoza
+21.112.443-7,Benjamín,Morales,Pardo,M,18.0,Chonchi,5.6,Benjamín Morales Pardo
+20.556.778-9,Isidora,Muñoz,Lagos,F,20.0,Fresia,6.9,Isidora Muñoz Lagos
+21.223.445-0,Diego,Fuentes,Palma,M,19.0,Cochamó,6.35,Diego Fuentes Palma
+22.110.554-1,Maximiliano,Bravo,Donoso,M,17.0,Los Muermos,4.8,Maximiliano Bravo Donoso
+21.556.998-4,Sofía,Maldonado,Jara,F,18.0,Maullín,5.3,Sofía Maldonado Jara
+21.221.776-k,Catalina,Bórquez,Delgado,F,18.0,Dalcahue,5.9,Catalina Bórquez Delgado
+22.443.887-2,Felipe,Arriagada,Salinas,M,17.0,Curaco de Vélez,4.1,Felipe Arriagada Salinas
+21.669.223-5,Samuel,Henríquez,Godoy,M,18.0,Puqueldón,6.4,Samuel Henríquez Godoy
+22.556.112-7,Martina,Rivas,Farías,F,17.0,Queilén,5.550000000000001,Martina Rivas Farías
+21.887.443-1,Vicente,Figueroa,Ortiz,M,18.0,San Juan de la Costa,4.7,Vicente Figueroa Ortiz
+22.332.990-k,Josefa,Leiva,Tapia,F,17.0,Río Negro,5.2,Josefa Leiva Tapia
+21.114.665-4,Francisco,Mena,Loyola,M,19.0,Puerto Montt,6.1,Francisco Mena Loyola
+20.558.112-9,Elena,Pino,Villalobos,F,20.0,Osorno,5.0,Elena Pino Villalobos
+22.669.332-8,Claudia,Cáceres,Bustos,F,17.0,Puerto Varas,6.3,Claudia Cáceres Bustos
